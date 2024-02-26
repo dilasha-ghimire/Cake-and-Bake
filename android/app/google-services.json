@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164658184418",
+    "project_id": "cake-and-bake-1940a",
+    "storage_bucket": "cake-and-bake-1940a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164658184418:android:42c994426e0db586885ebb",
+        "android_client_info": {
+          "package_name": "com.example.cake_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm5MIjF3fCk3UcDl8SlgKGKFOMChu6Azo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
